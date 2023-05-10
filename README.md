@@ -1,17 +1,8 @@
 > _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Performance Audit 
+# Performance Audit Uniqlo
 
-Doe een Performance Audit test op een bestaande website en rapporteer daar over.
-
-## Titel Website
-
-Welke website heb je getest? Beschrijf de website die je hebt geanalyseerd en de datum dat je hebt getest. Voeg de url en een screenshot van de website toe.  
-
-Toon een screenshot van de performance test.
-
-Schrijf een samenvatting van de testbevindingen en verwijs naar je Wiki voor een uitgebreide rapportage.
-
+Check mijn audit in de [wiki](https://github.com/NBadeloe/performance-matters-performance-audit/wiki/Performance-audit-uniqlo):)
 
 ## Licentie
 
